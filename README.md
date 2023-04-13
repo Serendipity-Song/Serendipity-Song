@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=종합설계)](https://github.com/thdalwh3867/velog-readme-stats)
 
 <!--
 **Serendipity-Song/Serendipity-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
