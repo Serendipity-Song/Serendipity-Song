@@ -1,6 +1,8 @@
-###  👋
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=종합설계)](https://github.com/thdalwh3867/velog-readme-stats)
-
+### My Activity These days👋
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=종합설계&color=dark)](https://github.com/thdalwh3867/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=로켓펀치&color=dark)](https://github.com/thdalwh3867/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=HP&color=dark)](https://github.com/thdalwh3867/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=사회리더대학생멘토링&color=dark)](https://github.com/thdalwh3867/velog-readme-stats)
 <!--
 **Serendipity-Song/Serendipity-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
