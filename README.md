@@ -3,7 +3,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=HaeinSong&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=30&descAlign=30)</br>
 ####  :wave: Welcome my github profile !
-####  🔭 I’m currently working on "취준컴퍼니, 23.4~(now)"</br></br></br>
+####  🔭 I’m currently working on "취준컴퍼니, 23.4~(now)"
+####  worked on "KIST AI, 22.03~22.08" , "Cemware, 21.12~22.02"
+</br></br></br>
 ####  📫 How to reach me: </br>
 ####  e-mail : thdalwh3867@gmail.com</br>
 ####  Linkedin : https://www.linkedin.com/in/haein-song-605a38248/</br></br>
