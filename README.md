@@ -3,14 +3,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=HaeinSong&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=30&descAlign=30)</br>
 ####  :wave: Welcome my github profile !
-####  🔭 I’m currently working on "취준컴퍼니, 23.4~(now)" https://cz-company.rocketpunch.com/
-####  worked on "KIST AI, 22.03~ 22.08" https://cai.kist.re.kr/
-"Cemware, 21.12~22.02" https://www.topikonline.com/en
-</br></br></br>
+####  🔭 SW Engineer Team, "취준컴퍼니, 23.4~(now)" https://cz-company.rocketpunch.com/
+####  Research Intern, "KIST AI, 22.03~ 22.08" https://cai.kist.re.kr/
+####  SW/QA Intern "Cemware, 21.12~22.02" https://www.topikonline.com/en
+</br></br>
 ####  📫 How to reach me: </br>
 ####  e-mail: thdalwh3867@gmail.com</br>
 ####  Linkedin: https://www.linkedin.com/in/haein-song-605a38248/</br></br>
-
+</br></br>
 #### 🌱 My Activity These days
 #### Preparing graduate: 2023.8
 #### HP Korea Mentoring, Global Mentoring
