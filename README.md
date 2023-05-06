@@ -1,19 +1,23 @@
 <div align="center">
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=HaeinSong&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=30&descAlign=30) -->
   
-  
-![header](https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=HaeinSong&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=30&descAlign=30)</br>
 ####  :wave: Welcome my github profile !
-####  🔭 SW Engineer Team, "취준컴퍼니, 23.4~(now)" https://cz-company.rocketpunch.com/
-####  Research Intern, "KIST AI, 22.03~ 22.08" https://cai.kist.re.kr/
-####  SW/QA Intern "Cemware, 21.12~22.02" https://www.topikonline.com/en
+<br>
 
-</br></br>
+### 🔭 Experience
+####  1. SW Engineer Team, "취준컴퍼니, 23.4~(now)" https://cz-company.rocketpunch.com/
+####  2. Research Intern, "KIST AI, 22.03~ 22.08" https://cai.kist.re.kr/
+####  3. SW/QA Intern "Cemware, 21.12~22.02" https://www.topikonline.com/en
+
+<!-- </br></br>
 #### 🌱 My Activity These days
 #### Preparing graduate: 2023.8
 #### HP Korea/Global Mentoring, Capstone-DL/Data Project
+   -->
   
-  <br><br><br>
-  
+  <br><br>
+### 💬 Skilset
+ 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
