@@ -6,17 +6,11 @@
 ####  🔭 SW Engineer Team, "취준컴퍼니, 23.4~(now)" https://cz-company.rocketpunch.com/
 ####  Research Intern, "KIST AI, 22.03~ 22.08" https://cai.kist.re.kr/
 ####  SW/QA Intern "Cemware, 21.12~22.02" https://www.topikonline.com/en
-</br></br>
-####  📫 How to reach me: </br>
-####  e-mail: thdalwh3867@gmail.com</br>
-####  Linkedin: https://www.linkedin.com/in/haein-song-605a38248/</br></br>
+
 </br></br>
 #### 🌱 My Activity These days
 #### Preparing graduate: 2023.8
-#### HP Korea Mentoring, Global Mentoring
-#### Capstone Project, ML/Data Project
-<!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=종합설계&color=dark)](https://github.com/thdalwh3867/velog-readme-stats)</br> -->
-<!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=thdalwh3867&tag=로켓펀치&color=dark)](https://github.com/thdalwh3867/velog-readme-stats)</br></br> -->
+#### HP Korea/Global Mentoring, Capstone-DL/Data Project
   
   <br><br><br>
   
