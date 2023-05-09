@@ -5,10 +5,10 @@
 <br>
 
 ### 🔭 Experience
-####  1. SW Engineer Team, "취준컴퍼니, 23.4~(now)" https://cz-company.rocketpunch.com/
-####  2. AI Research Intern, "KIST, 22.03~ 22.08" https://cai.kist.re.kr/
-####  3. SW/QA Intern "Cemware, 21.12~22.02" https://www.topikonline.com/en
-
+####  1. SW Engineer Team, "취준컴퍼니, 23.4~(now)" 
+####  2. AI Research Intern, "KIST, 22.03~ 22.08" 
+####  3. SW/QA Intern "Cemware, 21.12~22.02"
+  
 <!-- </br></br>
 #### 🌱 My Activity These days
 #### Preparing graduate: 2023.8
