@@ -9,6 +9,8 @@
 ####  2. AI Research Intern, "KIST, 22.03~ 22.08" 
 ####  3. SW/QA Intern "Cemware, 21.12~22.02"
   
+  blog : https://velog.io/@thdalwh3867 
+  
 <!-- </br></br>
 #### 🌱 My Activity These days
 #### Preparing graduate: 2023.8
