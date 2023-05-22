@@ -1,10 +1,9 @@
 <div align="center">
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=HaeinSong&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=30&descAlign=30) -->
   
-####  :wave: Welcome my github profile !
-<br>
-<br>
-
+<!-- ####  :wave: Welcome my github profile !
+<br> -->
+  
 ### 🔭 Experience
 ####  1. SW Engineer Team, "취준컴퍼니, 23.4~(now)" 
 ####  2. AI Research Intern, "KIST, 22.03~ 22.08" 
@@ -17,8 +16,11 @@
 #### Preparing graduate: 2023.8
 #### HP Korea/Global Mentoring, Capstone-DL/Data Project
    -->
+  <br>
   
-  <br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serendipity-Song)](https://github.com/Serendipity-Song/github-readme-stats)
+
+  
 ### 💬 Skilset
  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
