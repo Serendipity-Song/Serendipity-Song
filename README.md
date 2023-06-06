@@ -19,7 +19,7 @@
    -->
   <br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serendipity-Song)](https://github.com/Serendipity-Song/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serendipity-Song)](https://github.com/Serendipity-Song/github-readme-stats) -->
 
   
 ### 💬 Skilset
